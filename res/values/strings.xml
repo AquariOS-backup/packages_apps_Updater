@@ -21,7 +21,7 @@
 
     <!-- Directory where the update files will be downloaded and stored.
          WARNING: The application can and will delete any unknown file. -->
-    <string name="download_path" translatable="false">/data/superiorOS_updates/</string>
+    <string name="download_path" translatable="false">/data/AquariOS_updates/</string>
 
     <!-- Directory where the downloads will be exported to.
          The path is relative to the root of the external storage.-->
@@ -74,7 +74,7 @@
     <string name="menu_copy_url">Copy URL</string>
     <string name="menu_export_update">Export update</string>
     <string name="menu_show_changelog">Show changelog</string>
-    <string name="menu_changelog_url" translatable="false">https://t.me/superioros</string>
+    <string name="menu_changelog_url" translatable="false">https://github.com/AquariOS/changelog/blob/a9/Changelog.txt</string>
     <string name="menu_local_update">local installation</string>
     <string name="menu_ab_perf_mode">Prioritize update process</string>
 
@@ -146,7 +146,7 @@
 
     <string name="blocked_update_dialog_title">Update blocked</string>
     <string name="blocked_update_dialog_message">This update cannot be installed using the updater app.  Please read <xliff:g id="info_url">%1$s</xliff:g> for more information.</string>
-    <string name="blocked_update_info_url" translatable="false">https://t.me/superior_os</string>
+    <string name="blocked_update_info_url" translatable="false">https://t.me/joinchat/GbmcoEYT9Swm7BkDXtI_Lw</string>
 
     <string name="export_channel_title">Export completion</string>
     <string name="new_updates_channel_title">New updates</string>
